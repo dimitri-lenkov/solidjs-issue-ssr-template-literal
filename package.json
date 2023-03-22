@@ -1,0 +1,17 @@
+{
+  "name": "github-solidjs-solid-issue-1601",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.2",
+    "sirv": "^2.0.2",
+    "solid-js": "^1.6.10"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "vite-plugin-solid": "^2.5.0"
+  }
+}
